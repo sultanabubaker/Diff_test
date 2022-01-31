@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm-check": "5.7.1"
+    "express": "4.15.5"
   }
 }
