@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.15.5",
-    "npm-check": "5.7.1"
+    "npm-check": "5.7.1",
+    "send": "0.11.1"
   }
 }
