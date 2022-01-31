@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "4.15.5",
-    "handlebars": "4.0.10"
+    "handlebars": "4.7.4"
   }
 }
